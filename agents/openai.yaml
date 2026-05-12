@@ -1,0 +1,4 @@
+interface:
+  display_name: "Algorithm Reconstructor"
+  short_description: "LaTeX pseudocode from papers and code"
+  default_prompt: "Generate algorithm2e pseudocode from this paper/code"
